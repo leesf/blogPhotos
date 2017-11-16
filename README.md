@@ -1,2 +1,2 @@
 # blogPhotos
-This Repository is used to store blog photos.
+This Repository is used to store blog pictures.
